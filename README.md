@@ -17,10 +17,6 @@ AI/ML: NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch · TensorFlow ·
 Tools & Cloud: Git · GitHub · GitHub Actions · AWS · Vercel · Netlify
 
 
-### 🚀 What I'm Working Toward
-
-Building practical projects, improving problem-solving skills, and gradually developing into a strong **AI/ML + Full-Stack Developer**.
-
 ### 🤝 Connect With Me:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-manchanda)
 
 # 💻 Tech Stack:
