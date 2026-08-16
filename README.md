@@ -2,17 +2,22 @@
 
 ### 💻 B.Tech CSE (AI/ML) @ JIIT Noida
 
-I'm an aspiring **AI/ML Engineer** with an interest in **Full-Stack Development, Python, Machine Learning, and C++**.
+I'm an aspiring **AI/ML Engineer** with an interest in **Full-Stack Development, Python, Machine Learning, DSA in C++**.
 
 🌱 Currently learning, building projects, and strengthening my foundations in **Data Structures & Algorithms, Web Development, and AI/ML**.
 
 ### 🛠️ Tech I'm Working With
 
 Languages: C · C++ · Python
+
 Development: HTML · CSS · JavaScript · React · Tailwind CSS · Flask
+
 Databases: MySQL · PostgreSQL · MongoDB
+
 AI/ML: NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch · TensorFlow · OpenCV
+
 Tools & Cloud: Git · GitHub · GitHub Actions · AWS · Vercel · Netlify
+
 
 ### 🚀 What I'm Working Toward
 
