@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aayush Manchanda
 
-### 💻 B.Tech CSE (AI/ML) @ JIIT Noida
+### 💻 B.Tech CSE @ JIIT Noida
 
 I'm an aspiring **AI/ML Engineer** with an interest in **Full-Stack Development, Python, Machine Learning, DSA in C++**.
 
